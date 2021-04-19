@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{92:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Approach to addressing Data Quality and Quality Assurance Processes","permalink":"/ppsr-core/blog/approach"}]}')}}]);
